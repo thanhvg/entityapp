@@ -1,0 +1,86 @@
+c:\users\thanh\documents\visual studio 2015\Projects\dbtestiing\dbtestiing\bin\Debug\dbtestiing.exe.config
+c:\users\thanh\documents\visual studio 2015\Projects\dbtestiing\dbtestiing\bin\Debug\dbtestiing.exe
+c:\users\thanh\documents\visual studio 2015\Projects\dbtestiing\dbtestiing\bin\Debug\dbtestiing.pdb
+c:\users\thanh\documents\visual studio 2015\Projects\dbtestiing\dbtestiing\bin\Debug\EntityFramework.dll
+c:\users\thanh\documents\visual studio 2015\Projects\dbtestiing\dbtestiing\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\thanh\documents\visual studio 2015\Projects\dbtestiing\dbtestiing\bin\Debug\EntityFramework.xml
+c:\users\thanh\documents\visual studio 2015\Projects\dbtestiing\dbtestiing\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\thanh\documents\visual studio 2015\Projects\dbtestiing\dbtestiing\obj\Debug\dbtestiing.csprojResolveAssemblyReference.cache
+c:\users\thanh\documents\visual studio 2015\Projects\dbtestiing\dbtestiing\obj\Debug\dbtestiing.Properties.Resources.resources
+c:\users\thanh\documents\visual studio 2015\Projects\dbtestiing\dbtestiing\obj\Debug\dbtestiing.csproj.GenerateResource.Cache
+c:\users\thanh\documents\visual studio 2015\Projects\dbtestiing\dbtestiing\obj\Debug\dbtestiing.exe
+c:\users\thanh\documents\visual studio 2015\Projects\dbtestiing\dbtestiing\obj\Debug\dbtestiing.pdb
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\dbtestiing\dbtestiing\obj\Debug\dbtestiing.Modify.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\dbtestiing\dbtestiing\obj\Debug\dbtestiing.Main.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\dbtestiing\dbtestiing\obj\Debug\dbtestiing.ChangeProductInPackage.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\dbtestiing\dbtestiing\obj\Debug\dbtestiing.AddNew.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\dbtestiing\dbtestiing\obj\Debug\dbtestiing.AddProducToPackage.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\bin\Debug\dbtestiing.exe.config
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.exe
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.pdb
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\bin\Debug\dbtestiing.exe
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\bin\Debug\dbtestiing.pdb
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\bin\Debug\EntityFramework.dll
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\bin\Debug\EntityFramework.xml
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.csprojResolveAssemblyReference.cache
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.AddNew.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.Main.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.Modify.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.Properties.Resources.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.csproj.GenerateResource.Cache
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.AddProduct.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.ProductSupplier.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.ChangeProductSupplier.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.AddProductSupplier.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.ProductManager.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.GetTextInputDlg.resources
+C:\Users\thanh\Documents\Visual Studio 2015\Projects\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.SupplierManager.resources
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\dbtestiing.exe.config
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.exe
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.pdb
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\dbtestiing.exe
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\dbtestiing.pdb
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\EntityFramework.dll
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\EntityFramework.xml
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.csprojResolveAssemblyReference.cache
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.AddNew.resources
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.AddProduct.resources
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.AddProductSupplier.resources
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.ChangeProductSupplier.resources
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.Main.resources
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.Modify.resources
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.GetTextInputDlg.resources
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.ProductManager.resources
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.ProductSupplier.resources
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.Properties.Resources.resources
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.SupplierManager.resources
+C:\Users\656998\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.csproj.GenerateResource.Cache
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\dbtestiing.exe.config
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.exe
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.pdb
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\dbtestiing.exe
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\dbtestiing.pdb
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\EntityFramework.dll
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\EntityFramework.xml
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.csprojResolveAssemblyReference.cache
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.AddNew.resources
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.AddProduct.resources
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.AddProductSupplier.resources
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.ChangeProductSupplier.resources
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.Main.resources
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.Modify.resources
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.GetTextInputDlg.resources
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.ProductManager.resources
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.ProductSupplier.resources
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.Properties.Resources.resources
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.SupplierManager.resources
+C:\Users\thanh\Dropbox\oosd\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.csproj.GenerateResource.Cache
+C:\Users\thanh\Desktop\teamprojectapp\dbtestiing\bin\Debug\dbtestiing.exe.config
+C:\Users\thanh\Desktop\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.exe
+C:\Users\thanh\Desktop\teamprojectapp\dbtestiing\obj\Debug\dbtestiing.pdb
